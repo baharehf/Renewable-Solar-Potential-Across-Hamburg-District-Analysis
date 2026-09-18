@@ -51,6 +51,23 @@ Specific goals:
 
 ---
 
+## 👩‍💻 My Role in the Team
+
+This project was developed collaboratively as part of the **ReDI School Data Analytics course**.
+
+My main role in the team focused on **Geospatial Analysis & Python Development**. I contributed to:
+
+* Data cleaning and validation using Python and Pandas
+* Processing geospatial data with GeoPandas
+* Connecting solar building records with Hamburg district boundaries through spatial analysis
+* Validating district assignments and investigating unmatched records
+* Supporting district-level aggregation and geospatial visualizations
+* Interpreting and presenting the analysis results
+
+The overall project, including data analysis, dashboard development, insights, and presentation, was completed collaboratively by the team.
+
+---
+
 # 🗂 Dataset Information
 
 ## 1. Building-Level Solar Dataset
